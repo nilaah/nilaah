@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [vulnsphere](https://github.com/nilaah/vulnsphere.github.io)
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
 
